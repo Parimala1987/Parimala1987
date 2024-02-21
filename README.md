@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parimala1987
+- 👋 Hi, I’m parimala V
 - 👀 currently learning python
 
 
